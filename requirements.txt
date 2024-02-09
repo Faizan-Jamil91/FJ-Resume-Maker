@@ -5,3 +5,4 @@ google-generativeai==0.1.0rc1
 html5lib>=1.1
 docx>=0.2.4
 python-docx
+google-generativeai
