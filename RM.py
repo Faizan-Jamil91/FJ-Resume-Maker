@@ -46,7 +46,7 @@ class ResumeMaker:
             }
         ]
 
-        model = genai.GenerativeModel(model_name="gemini-pro",
+        model = genai.GenerativeModel(model_name="gemini",
                                       generation_config=generation_config,
                                       safety_settings=safety_settings)
 
